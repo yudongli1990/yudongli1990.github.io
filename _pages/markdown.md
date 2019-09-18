@@ -7,4 +7,4 @@ redirect_from:
   - /markdown.html
 ---
 
-To reach me.
+Contact me at yli194@crimson.ua.edu.
